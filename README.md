@@ -1,6 +1,5 @@
-# Foobar
+# Openweather Map
 
-Openweather Map
 This project shows weather forecast for the city.
 
 ## Configuration
